@@ -11,7 +11,7 @@
       "id": "DucNaSoRi-26.1.2",
       "name": "DucNaSoRi (Minecraft 26.1.2)",
       "description": "DucNaSoRi Running Minecraft 26.1.2 (Fabric v0.19.3)",
-      "icon": null,
+      "icon": "null",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "26.1.2",
