@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "DucNaSoRi-26.1.2",
-      "name": "DucNaSoRi (Minecraft 26.1.2)",
-      "description": "DucNaSoRi Running Minecraft 26.1.2 (Fabric v0.19.3)",
+      "id": "Solming-26.1.2",
+      "name": "Solming (Minecraft 26.1.2)",
+      "description": "Solming Running Minecraft 26.1.2 (Fabric v0.19.3)",
       "icon": "null",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "14.86.51.9:25560",
       "minecraftVersion": "26.1.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
