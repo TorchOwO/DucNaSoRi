@@ -22,6 +22,10 @@
       },
       "mainServer": true,
       "autoconnect": true,
+      "javaOptions": {
+        "supported": ">=25 <26",
+        "suggestedMajor": 25
+      },
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.19.3",
